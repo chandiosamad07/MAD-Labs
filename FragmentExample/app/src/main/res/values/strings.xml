@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FragmentExample</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="settings">
+        <item>WiFi</item>
+        <item>Network</item>
+        <item>Connectivity</item>
+        <item>Display</item>
+        <item>Language</item>
+        <item>Keyboard</item>
+        <item>Apps</item>
+        <item>Accounts</item>
+        <item>Updates</item>
+        <item>Theme</item>
+        <item>Storage</item>
+        <item>Battery</item>
+        <item>About</item>
+    </string-array>
+</resources>
